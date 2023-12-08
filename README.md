@@ -43,7 +43,12 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Screenshots/Vid
 
-Videos are in folder
+[Link to video 1](https://drive.google.com/file/d/1_9EM_1jXWk9oZXXGDCYTCHehDAhyxCIy/view?usp=drive_link)
+
+[Link to video 2](https://drive.google.com/file/d/1vtDmUUEHLC8XEb5ZoVD3y_GanVOe3VlZ/view?usp=drive_link)
+
+[Link to video 3](https://drive.google.com/file/d/1FZJ_Lcxi6GR1vylIvlX7PHf-NPYR-LUf/view?usp=drive_link)
+
 
 ![Alt text](Develop/screenshots/categories.png)
 
