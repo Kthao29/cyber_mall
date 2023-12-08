@@ -1,7 +1,7 @@
 # E-commerce Back End Starter Code
 
 ## Description
-Starter code was provided to create a application for an e-commerce company. 
+Starter code was provided to create a application for an e-commerce company. This application build a application for the backend of a website and it work by using Express as well as sequelize and mySQL to make it convinent to engage in buying and selling products online. 
 
 
 
@@ -43,11 +43,13 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Screenshots/Vid
 
-![Alt text](<Develop/screenshots/Screenshot 2023-12-07 at 6.23.09 PM.png>)
+Videos are in folder
 
-![Alt text](<Develop/screenshots/Screenshot 2023-12-07 at 6.23.19 PM.png>)
+![Alt text](Develop/screenshots/categories.png)
 
-![Alt text](<Develop/screenshots/Screenshot 2023-12-07 at 6.23.29 PM.png>)
+![Alt text](Develop/screenshots/products.png)
+
+![Alt text](Develop/screenshots/tags.png)
 
 ## Usage/Installation
 
